@@ -1,6 +1,8 @@
 # Hello World, I'm Hamilton Ferreira
 
- [![Linkedin Badge](https://img.shields.io/badge/hamilton ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamilton-ferreira/)](https://www.linkedin.com/in/hamilton-ferreira/) 
+  <a href="https://www.linkedin.com/in/hamilton-ferreira/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
+  </a>
 
 
 I ❤️ developing software !
@@ -70,7 +72,9 @@ I believe that we have to love and have fun with the career we propose to act, t
 </table>
 
 ### See my complete knowledge here -> 
- [![Linkedin Badge](https://img.shields.io/badge/hamilton ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamilton-ferreira/)](https://www.linkedin.com/in/hamilton-ferreira/)
+  <a href="https://www.linkedin.com/in/hamilton-ferreira/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
+  </a>
  
  
  ### My free time
