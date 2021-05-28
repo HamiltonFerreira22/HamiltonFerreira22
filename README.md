@@ -1,6 +1,6 @@
 # Hello World, I'm Hamilton Ferreira
 
- [![Linkedin Badge](https://img.shields.io/badge/hamilton ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamilton-ferreira/)](https://www.linkedin.com/in/hamilton-ferreira/) 
+[![Linkedin Badge](https://img.shields.io/badge/hamilton ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamilton-ferreira/)](https://www.linkedin.com/in/hamilton-ferreira/) 
 
 
 I ❤️ developing software !
