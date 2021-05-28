@@ -1,10 +1,10 @@
 # Hello World, I'm Hamilton Ferreira
 
-
+<p>
   <a href="https://www.linkedin.com/in/hamilton-ferreira/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hamiltonferreira" height="35" width="35" />
   </a>
-
+<p>
 
 
 
@@ -76,7 +76,7 @@ I believe that we have to love and have fun with the career we propose to act, t
 
 ### See my complete knowledge here -> 
   <a href="https://www.linkedin.com/in/hamilton-ferreira/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hamiltonferreira" height="35" width="35" />
   </a>
  
  
