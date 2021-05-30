@@ -98,8 +98,8 @@ I am grateful for what I have and go in search of what I still need. However I t
   
   | Title | Type | Role | Avenue | Date
   | :---: | :---: | :---: | :---:| :--------:|
-  | Java Developer | Bootcamp | Speaker | Digital Inovation one|2021-05 
-  | Code Anywhere | Bootcamp | Speaker | Digital Inovation one|2021-05   
+  | Java Developer | Bootcamp | Student | Digital Inovation one|2021-05 
+  | Code Anywhere | Bootcamp | Student | Digital Inovation one|2021-05   
 </details>
 
 <p width="50%" align="center">
