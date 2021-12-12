@@ -44,7 +44,7 @@ I believe that we have to love and have fun with the career we propose to act, t
       </td>  
       <td width="25%" align="center">
         <span>SQL Server</span><br><br>
-        <img height="64px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
       </td>      
       <td width="25%" align="center">
         <span>C#</span><br><br>
