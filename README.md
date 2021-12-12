@@ -72,7 +72,7 @@ I believe that we have to love and have fun with the career we propose to act, t
       </td>
        <td width="25%" align="center">
         <span>Selenium</span><br><br>
-        <img height="64px"src=<img src="https://cdn.svgporn.com/logos/selenium.svg"/>
+        <img height="64px"src=<img src="https://img.icons8.com/fluency/96/000000/selenium-test-automation.png"/>
       </td>
          </td>
        <td width="25%" align="center">
