@@ -53,8 +53,8 @@ I believe that we have to love and have fun with the career we propose to act, t
     </tr>    
     <tr valign="top">
        <td width="25%" align="center">
-        <span>Redux</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+        <span>Azure</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
       </td>  
       <td width="25%" align="center">
         <span>Python</span><br><br>
