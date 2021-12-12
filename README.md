@@ -68,7 +68,7 @@ I believe that we have to love and have fun with the career we propose to act, t
      <tr valign="top">      
        <td width="25%" align="center">
         <span>Selenium</span><br><br>
-        <img height="64px"src= src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg">
+        <img height="64px"src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg">
       </td>
        <td width="25%" align="center">
         <span>Adobe Photoshop</span><br><br>
@@ -77,7 +77,7 @@ I believe that we have to love and have fun with the career we propose to act, t
       </td>
        <td width="25%" align="center">
         <span>.Net</span><br><br>
-        <img height="64px"src= src="https://iconape.com/wp-content/png_logo_vector/dot-net-core.png">
+        <img height="64px"src="https://iconape.com/wp-content/png_logo_vector/dot-net-core.png">
       </td>
     </tr>
   </tbody>
