@@ -72,12 +72,12 @@ I believe that we have to love and have fun with the career we propose to act, t
       </td>
        <td width="25%" align="center">
         <span>Selenium</span><br><br>
-        <img height="64px"src=<img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png"/>>
+        <img height="64px"src=<img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png"/>
       </td>
          </td>
        <td width="25%" align="center">
         <span>.Net</span><br><br>
-        <img height="64px"src=<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>>
+        <img height="64px"src=<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
       </td>
     </tr>
   </tbody>
