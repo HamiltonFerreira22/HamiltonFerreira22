@@ -65,16 +65,16 @@ I believe that we have to love and have fun with the career we propose to act, t
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
      </tr>      
-     <tr valign="top">
-      <td width="25%" align="center">
-        <span>Adobe Photoshop</span><br><br>
-        <img height="64px"src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
-      </td>
+     <tr valign="top">      
        <td width="25%" align="center">
         <span>Selenium</span><br><br>
         <img height="64px"src=<img src="https://img.icons8.com/fluency/96/000000/selenium-test-automation.png"/>
       </td>
-         </td>
+       <td width="25%" align="center">
+        <span>Adobe Photoshop</span><br><br>
+        <img height="64px"src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
+      </td>
+      </td>
        <td width="25%" align="center">
         <span>.Net</span><br><br>
         <img height="64px"src=<img src="https://cdn.svgporn.com/logos/dotnet.svg"/>
