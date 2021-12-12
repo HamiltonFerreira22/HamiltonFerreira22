@@ -102,13 +102,18 @@ I am grateful for what I have and go in search of what I still need. However I t
 </p>
 
 <details>
-<summary>Educational Content</summary>
-  
+<summary>Bootcamps Content</summary>  
   
   | Title | Type | Role | Avenue | Date
   | :---: | :---: | :---: | :---:| :--------:|
-  | Java Developer | Bootcamp | Student | Digital Inovation one|2021-05 
-  | Code Anywhere | Bootcamp | Student | Digital Inovation one|2021-05   
+  | Java Developer | Bootcamp | Student | Digital Innovation One Inc.|2021-05 
+  | Code Anywhere | Bootcamp | Student | Digital Innovation One Inc.|2021-05 
+  | Campus Expert | Bootcamp | Student | Digital Innovation One Inc.|2021-11 
+  | .Net Fundamentals | Bootcamp | Student | Digital Innovation One Inc.|2021-12 
+  | NTT DATA Quality Assurance Beginner #3 | Bootcamp | Student | Digital Innovation One Inc./NTT Data |2021-12 
+  | Decola Tech 2a edição | Bootcamp | Student | Digital Innovation One Inc./Avanade |2021-05 
+  | MRV Fullstack Developer | Bootcamp | Student | Digital Innovation One Inc./MRV |2021-11 
+ 
 </details>
 
 <p width="50%" align="center">
