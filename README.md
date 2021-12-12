@@ -47,8 +47,8 @@ I believe that we have to love and have fun with the career we propose to act, t
         <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
       </td>      
       <td width="25%" align="center">
-        <span>React Native</span><br><br>
-        <img height="64px" src="https://img.icons8.com/cute-clipart/64/000000/react-native.png">
+        <span>C#</span><br><br>
+        <img height="64px" <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>>
       </td>
     </tr>    
     <tr valign="top">
@@ -69,6 +69,15 @@ I believe that we have to love and have fun with the career we propose to act, t
       <td width="25%" align="center">
         <span>Adobe Photoshop</span><br><br>
         <img height="64px"src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
+      </td>
+       <td width="25%" align="center">
+        <span>Selenium</span><br><br>
+        <img height="64px"src=<img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png"/>>
+      </td>
+         </td>
+       <td width="25%" align="center">
+        <span>.Net</span><br><br>
+        <img height="64px"src=<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>>
       </td>
     </tr>
   </tbody>
