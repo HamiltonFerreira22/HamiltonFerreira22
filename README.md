@@ -8,15 +8,25 @@
 
 
 
-I ❤️ developing software !
+I ❤️ develop and test the quality of software!
 
-:computer: Student Full Stack Developer at Fullture School | Technologist in Information Technology Management at Anhembi Morumbi College  
+💻 Full Stack Developer and QA Jr
 
-I am passionate about learning new and challenging things. 
+I am passionate about learning new and challenging things.
 
-I was fascinated by the universe of web development and entered a process of career transition from health to programming. 
+I believe that we have to love and have fun with the career that we propose to act, so I see programming as the perfect place for me to live. I like to reinvent myself and work as a team.
 
-I believe that we have to love and have fun with the career we propose to act, that's why I see in programming the perfect place for me to live. I love to reinvent myself and work as a team.
+Skills and Abilities:
+
+Modeling, execution and validation of tests;
+Languages ​​C#, .NET, Python, Angular
+Selenium Web Driver
+Rest APIs (Automation with RestSharp and C#, Postman)
+Manual and Automation Testing in Web, Services and App
+Database: Queries and mass creation - SQL Server;
+Versioning: Github;
+BDD - TDD
+Agile Scrum and Kanbam methodologies
 
 
 ## My Skills
