@@ -10,7 +10,7 @@
 
 I ❤️ develop and test the quality of software!
 
-💻 Full Stack Developer and QA Jr
+💻 Full Stack Developer and QA Jr II
 
 I am passionate about learning new and challenging things.
 
@@ -64,7 +64,7 @@ Agile Scrum and Kanbam methodologies
     <tr valign="top">
        <td width="25%" align="center">
         <span>Azure</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/azure-1.png"/>
       </td>  
       <td width="25%" align="center">
         <span>Python</span><br><br>
