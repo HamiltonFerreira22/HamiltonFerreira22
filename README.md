@@ -13,7 +13,8 @@
       I ❤️ develop and test the quality of software!
       💻 Full Stack Developer and QA Jr II
       I am passionate about learning new and challenging things.
-      I believe that we have to love and have fun with the career that we propose to act, so I see programming as the perfect place for me to live. I like to reinvent myself and work as a team. 
+      I believe that we have to love and have fun with the career that we propose to act,
+      so I see programming as the perfect place for me to live. I like to reinvent myself and work as a team. 
       Currently working as Software QA Jr III at Starline
 
 
@@ -21,7 +22,8 @@
   
     In my time I listen to music, watch series and read.
     I love to travel, meet new people, cultures, beach and adventure.
-    I am grateful for what I have and go in search of what I still need. However I think that the best thing in life is to live, smile and love.
+    I am grateful for what I have and go in search of what I still need.
+    I believe that the best thing in life is to live, smile and love.
 
 
 ### Skills and Abilities:
@@ -73,7 +75,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-ferreira/)
 
  
- ![Snake animation](https://github.com/HamiltonFerreira22/HamiltonFerreira22/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HamiltonFerreira22/HamiltonFerreira22/blob/output/github-contribution-grid-snake.svg)
 
 
 
