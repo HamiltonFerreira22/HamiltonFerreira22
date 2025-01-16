@@ -1,80 +1,71 @@
-# Hello World, I'm Hamilton Ferreira
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
+  <h2>Eu sou Hamilton Ferreira!</h2>
+</div>
 
-<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+
+
+<div align="center">
+ <img height="300em" src="https://github.com/user-attachments/assets/502b2195-c28d-42fc-9b0a-e290381846b2"/> 
+</div>
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamiltonFerreira22&theme=radical"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=HamiltonFerreira22&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamiltonFerreira22&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=HamiltonFerreira22&theme=radical&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=HamiltonFerreira22&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamiltonFerreira22&layout=compact&langs_count=7&theme=radical&hide_border=true"/> 
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=HamiltonFerreira22&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+## Um pouco sobre mim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">  
+
+🎯 **QA Especialista em Automação de Testes**  
+📌 Atualmente atuando no segmento financeiro, com foco na automação de processos relacionados ao PIX.  
+
+🚀 Sou apaixonado por tecnologia e qualidade de software, buscando sempre aprender e enfrentar novos desafios. Vejo a programação como uma forma de reinventar o mundo e me conectar com soluções inovadoras.  
+
+💡 Nas horas vagas, gosto de **ler**, andar de moto e ouvir **música clássica e Os Arrais**.
+
+---
+
+## Minhas Habilidades
+
+- **Automação de Testes**: Selenium, Cypress, RestSharp, Postman  
+- **Desenvolvimento e Testes de APIs REST**  
+- **Metodologias Ágeis**: Scrum e Kanban  
+- **BDD/TDD**  
+- **Análise e Padronização de Esteiras de Automação**  
+- **Linguagens**: Java, C#, JavaScript, Python  
+
+---
+
+## Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Cypress-%2300BC73.svg?style=for-the-badge&logo=cypress&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
+---
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/hamilton-ferreira/">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100">
+</a>
 
 
-
-### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
-  
-      I ❤️ develop and test the quality of software!
-      💻 Full Stack Developer and QA Jr II
-      I am passionate about learning new and challenging things.
-      I believe that we have to love and have fun with the career that we propose to act,
-      so I see programming as the perfect place for me to live. I like to reinvent myself and work as a team. 
-      Currently working as Software QA Jr III at Starline
-
-
-### My free time
-  
-    In my time I listen to music, watch series and read.
-    I love to travel, meet new people, cultures, beach and adventure.
-    I am grateful for what I have and go in search of what I still need.
-    I believe that the best thing in life is to live, smile and love.
-
-
-### Skills and Abilities:
-
-    Modeling, execution and validation of tests;
-    Rest APIs (Automation with RestSharp and C#, Postman)
-    Manual and Automation Testing in Web, Services and App
-    BDD - TDD
-    Agile Scrum and Kanbam methodologies
-
-
-###  ⚙️ Some Tool and Tech I use:     
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)	    
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHunActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![RestSharp](https://lh3.googleusercontent.com/dH6CzUUq8y22LmzUOyuR9kQHIGdtw3EGKgZRy1xVg7_GwueFDtz-CVp6-F_SemEZ5xbq-A=s170)
-
-<img src="https://media2.giphy.com/media/IzKrzRa01oB2KkvC7I/200.webp?cid=ecf05e47wgr75f6vzx2uyrdxv6ibfbxqrwcpt8j50avpml6r&rid=200.webp&ct=g" width="80"> 
-
- </div>
-  
-
-  <div align="leaft">
-
- ## 📫 How to reach me?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-ferreira/)
-
- ![Snake animation](https://github.com/HamiltonFerreira22/HamiltonFerreira22/blob/output/github-contribution-grid-snake.svg)
-
-
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
+</div>
